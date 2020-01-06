@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577978696 source:d:\repos\c++ basics\03-conditionalstatements\sumseconds\sumseconds.cpp
+	<iostream>
+
+1577979250 source:d:\repos\c++ basics\03-conditionalstatements\sumseconds\speedinfo.cpp
+	<iostream>
+
+1577983034 source:d:\repos\c++ basics\03-conditionalstatements\sumseconds\timeplus15minutes.cpp
+	<iostream>
+	<ctime>
+
